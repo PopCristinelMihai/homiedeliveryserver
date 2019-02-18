@@ -7,7 +7,7 @@ import android.widget.TextView;
 
 import com.example.homiedeliveryserver.Interface.ItemClickListener;
 import com.example.homiedeliveryserver.R;
-
+/*
 public class MenuViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
     public TextView txtMenuName;
     public ImageView imageView;
