@@ -24,9 +24,9 @@
             android:text=""
             android:textColor="@color/colorPrimary"
             android:textSize="34sp"
-            android:inputType="textPassword"
-            app:met_baseColor="@android:color/white"
-            app:met_flatingLavel="highlight"
+            android:inputType="text"
+            app:met_baseColor="@android:color/black"
+
             app:met_primaryColor="@color/colorPrimary"
             app:met_singleLineEllipsis="true"
             />
